@@ -1,0 +1,17 @@
+# Site Settings
+title: Hi! My name is Denise!
+email: denisetran@cpp.edu
+description: >-
+ Currently trying to learn Jekyll.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+sass:
+    sass_dir: _sass
+include: ['_pages']
+kramdown:
+    input: GFM
+

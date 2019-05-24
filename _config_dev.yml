@@ -1,0 +1,14 @@
+# Site Settings
+title: Hi! My name is Denise
+email: denisetran@cpp.edu
+description: >
+  A guide to getting started with Jekyll.
+baseurl: ""
+url: "localhost:4000"
+
+# Build Settings
+sass:
+  sass_dir: _sass
+include: ['_pages']
+kramdown:
+  input: GFM
